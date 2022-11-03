@@ -7,15 +7,15 @@ export const navLinks = [
   },
   {
     id: "features",
-    title: "Features",
+    title: "Ferramentas",
   },
   {
     id: "product",
-    title: "Product",
+    title: "Produtos",
   },
   {
     id: "clients",
-    title: "Clients",
+    title: "Clientes",
   },
 ];
 
@@ -23,23 +23,23 @@ export const features = [
   {
     id: "feature-1",
     icon: star,
-    title: "Rewards",
+    title: "Na frente",
     content:
-      "The best credit cards offer some tantalizing combinations of promotions and prizes",
+      "Construímos softwares com as melhores tecnologias do momento. Para fazer seu negócio decolar.",
   },
   {
     id: "feature-2",
     icon: shield,
-    title: "100% Secured",
+    title: "100% Seguro",
     content:
-      "We take proactive steps make sure your information and transactions are secure.",
+      "Segrança total para o melhor desempenho de sua aplicação. Cuidamos de tota implementação",
   },
   {
     id: "feature-3",
     icon: send,
-    title: "Balance Transfer",
+    title: "Suporte Total",
     content:
-      "A balance transfer credit card can save you a lot of money in interest charges.",
+      "Temos suporte 24 Horas para te ajudar na operação de suas aplicações.",
   },
 ];
 
@@ -73,18 +73,18 @@ export const feedback = [
 export const stats = [
   {
     id: "stats-1",
-    title: "User Active",
-    value: "3800+",
+    title: " A página da sua empresa",
+    value: "Presença| ",
   },
   {
     id: "stats-2",
-    title: "Trusted by Company",
-    value: "230+",
+    title: "Planos Acessíveis",
+    value: "149,99R$",
   },
   {
     id: "stats-3",
-    title: "Transaction",
-    value: "$230M+",
+    title: "para seu negócio",
+    value: "Integração|",
   },
 ];
 

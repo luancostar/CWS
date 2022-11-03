@@ -14,13 +14,13 @@ const Billing = () => (
 
     <div className={layout.sectionInfo}>
       <h2 className={styles.heading2}>
-        Easily control your <br className="sm:block hidden" /> billing &
-        invoicing
+        Seus projetos<br className="sm:block hidden" /> em total
+        evidência.
       </h2>
       <p className={`${styles.paragraph} max-w-[470px] mt-5`}>
-        Elit enim sed massa etiam. Mauris eu adipiscing ultrices ametodio
-        aenean neque. Fusce ipsum orci rhoncus aliporttitor integer platea
-        placerat.
+        Te ajudamos a manter sua marca em destaque na internet!
+        Cresça com um ambiente profissional que se adequa de acordo
+        com as necessidades de sua empresa e seus clientes!
       </p>
 
       <div className="flex flex-row flex-wrap sm:mt-10 mt-6">
