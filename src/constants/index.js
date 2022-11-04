@@ -74,7 +74,7 @@ export const stats = [
   {
     id: "stats-1",
     title: " A página da sua empresa",
-    value: "Presença | ",
+    value: "Presença",
   },
   {
     id: "stats-2",
@@ -84,7 +84,7 @@ export const stats = [
   {
     id: "stats-3",
     title: "para seu negócio",
-    value: "Integração |",
+    value: "Integração",
   },
 ];
 
